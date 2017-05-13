@@ -1,0 +1,4 @@
+services:
+#    rainlike_google_drive_backups.example:
+#        class: Rainlike\GoogleDriveBackupsBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
